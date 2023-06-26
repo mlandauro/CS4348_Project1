@@ -1,0 +1,17 @@
+1   //Load 0 into AC
+0
+9   //print AC
+1
+23  //jump to 50
+50
+24  //return to code here
+9   //print AC
+1
+50
+
+
+.50
+1   //load
+72
+24  //return to code
+
